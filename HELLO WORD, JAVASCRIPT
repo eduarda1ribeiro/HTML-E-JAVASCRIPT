@@ -1,0 +1,101 @@
+<script>
+    alert("Hello World")
+    document.write("<center>")
+    document.write("<font color='red' size='5'>SENAI/SUMARÉ </font>")
+    document.write("<br>")
+    document.write("<img src='veio.jpg' width='15%'>")
+    document.write("<br>")
+    $nome = prompt("Qual o seu nome?")
+    document.write("o nome digitado foi: " + $nome)
+    document.write("<br>")
+    $sexo = prompt("Qual é o seu sexo? [M] ou [F]")
+    document.write("Sexo = " + $sexo)
+
+    if (($sexo == "M") || ($sexo == "m")) 
+    {
+        document.writeln(" = Masculino")
+    }
+    else 
+    {
+        document.writeln(" = Feminino")
+    }
+
+    document.write("<br>")
+    $idade = prompt("Qual é a sua idade?")
+    document.write("Você é = " + $idade)
+
+    if (($idade < "18")) 
+    {
+        document.writeln(" = Menor Idade")
+    }
+    else 
+    {
+        document.writeln(" = Maior Idade")
+    }
+
+</script>
+</head>
+
+<body>
+     <CENTER>
+        <FONT COLOR="#A020F0" SIZE="10">
+            CADASTRO 
+        </FONT>
+        <br><br><br>
+        <table border=1 width="600" height="150" align="center" 
+    </CENTER>
+            <TR bgcolor="#7B68EE">
+                <BODY BGCOLOR="#E6E6FA">
+                </BODY>
+                <TD width="200" height="50" align="center" >  <b>Nome</b> </TD>
+                <TD width="200" height="50" align="center"> <b>Idade</b> </TD>
+                <TD align="center"> <b>Foto</b> </TD>
+            </TR>
+    </CENTER>
+
+    <center>
+        <TR bgcolor="#6959CD">
+            <TD> <b>Adrianna</b> </TD>
+            <TD> <b>36</b> </TD>
+            <TD> <img src="adriannalima.jpg" width='20%'> </Td>
+        </TR>
+
+
+        <TR  bgcolor="#6959CD">
+            <TD> <b>Dandara</b> </TD>
+            <TD> <b>17</b> </TD>
+            <TD> 
+                <a href= "https://github.com/eduarda1ribeiro">
+                 <img src="mulherafro.jpg" width='20%'> 
+                </a>  
+            </Td>
+        </TR>
+
+
+        <TR  bgcolor="#6959CD">
+            <TD> <b>Kyong</b> </TD>
+            <TD> <b>24</b> </TD>
+            <TD> <img src="mulherasiatica.jpg" width='20%'></Td>
+        </TR>
+        <TR  bgcolor="#6959CD">
+            <TD> <b>Marvin.</b> </TD>
+            <TD> <b>08</b> </TD>
+            <TD> <img src="crianca0.jpg" width='20%'></Td>
+        </TR>
+        <TR  bgcolor="#6959CD">
+            <TD> <b>Jhosep</b> </TD>
+            <TD> <b>55</b> </TD>
+            <TD> <img src="homemvelho0.jpg" width='20%'></Td>
+        </TR>
+        <TR  bgcolor="#6959CD">
+            <TD> <b>Kim</b> </TD>
+            <TD> <b>18</b> </TD>
+            <TD> <img src="homemasiatico0.jpg" width='20%'></Td>
+        </TR>
+    </center>
+    </table>
+</body>
+
+</html>
+</body>
+</html>

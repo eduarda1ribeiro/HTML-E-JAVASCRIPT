@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <CENTER>
+        <FONT COLOR="RED" SIZE="7">
+            TABELAS - PARTE 1
+        </FONT>
+        <br><br><br>
+        <table border=1 width="600" height="150" align="center">
+            <TR>
+                <TD width="200" height="50" align="center"> <b>Nome</b> </TD>
+                <TD width="200" height="50" align="center"> <b>Idade</b> </TD>
+                <TD align="center"> <b>Sexo</b> </TD>
+            </TR>
+    </CENTER>
+
+    <center>
+        <TR>
+            <TD> <b>Amanda</b> </TD>
+            <TD> <b>16</b> </TD>
+            <TD> <b>Feminino</b> </Td>
+        </TR>
+
+
+        <TR>
+            <TD> <b>Carlos</b> </TD>
+            <TD> <b>19</b> </TD>
+            <TD> <b>Masculino</b> </Td>
+        </TR>
+
+
+        <TR>
+            <TD> <b>Renato</b> </TD>
+            <TD> <b>18</b> </TD>
+            <TD> <b>Masculino</b></Td>
+        </TR>
+    </center>
+    </table>
+</body>
+
+</html>

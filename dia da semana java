@@ -1,0 +1,27 @@
+ <script>
+      $dia_da_semana = prompt("Digite O DIA DA SEMANA:")
+      switch($dia_da_semana)
+
+     { 
+       case "Segunda":
+       case "Terça":
+       case "Quarta":
+       case "Quinta":
+       case "Sexta": 
+          document.write("Dia Letivo / Dia da Semana");
+          break;
+       case "Sabado":
+       case "Domingo":
+          document.write("Dia Não Letivo/ Final de Semana");
+        break;
+      default:
+          document.write("Opção Invalida")
+        break; 
+    } 
+   
+    </script>
+</head>
+<body>
+    
+</body>
+</html>

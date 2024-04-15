@@ -1,0 +1,37 @@
+<script>
+      $Porta = prompt("Escolha uma porta de 1 á 4!:")
+      switch($porta)
+
+     { 
+       case "1":
+          document.write("td align='center'> <img src='./img/grana.jpg' widht='120'. </td> )
+          alert(AZAR: Voce recebeu 1 milhão de reais!)
+        break;
+
+       case "2":
+       document.write("td align='center'> <img src='./img/zumbi....jpg' width='120'. </td>")
+       alert(SORTE: Voce virou um zumbi!)
+        break;
+
+       case "3":
+       document.write("td align='center'> <img src= )
+       alert(SORTE: Voce perdeu um braço! )
+       break;
+
+       case "4":
+       document.write("td align='center'> <img src=)
+       alert(AZAR: Voce ganhou 5 anos de comprar gratis no mercado!)
+     
+       break;
+
+      default:
+          document.write("Opção Invalida")
+        break; 
+    } 
+   
+    </script>
+</head>
+<body>
+    
+</body>
+</html>

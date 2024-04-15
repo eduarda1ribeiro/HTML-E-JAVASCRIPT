@@ -1,0 +1,35 @@
+head>
+    <script>
+        $nota1 = prompt ("Qual é a primeira nota ?")
+        $nota2 = prompt ("Qual é a segunda nota ?")
+        $nota3 = prompt ("Qual é a terceira nota ?")
+        $media = ((parseInt($nota1)+ parseInt($nota2) + parseInt($nota3))/3)
+        
+
+                document.write(" <center> <font color='red' size='7'> Tabela de notas </font>")
+                document.write("<table border='1' width='600'>")
+                document.write("<tr bgcolor='#9932CC' align='center'>")
+                document.write(" <td width='350' align='center'><B>NOTA1</B></td>")
+                document.write(" <td width='80' align='center'><B>NOTA2</B></td>")
+                document.write(" <td width=''  align='center'><B>NOTA3</B></td>")
+                document.write(" <td width=''  align='center'><B>MEDIA</B></td>")
+                document.write(" </tr>")
+                document.write(" <tr>")
+                document.write("<td>")
+                document.write($nota1)
+                document.write("</td>")
+                document.write("<td>")
+                document.write($nota2)
+                document.write("</td>")
+                document.write("<td>")
+                document.write($nota3)
+                document.write("</td>")
+                document.write("<td>")
+                document.write($media)
+                document.write("</td>")
+                document.write(" </tr>")
+                document.write("</table>")
+
+    </script>
+</head>
+<body>

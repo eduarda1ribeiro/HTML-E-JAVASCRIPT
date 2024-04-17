@@ -6,11 +6,11 @@
         $cidade = this.form1.fCidade.value;
         $estado = this.form1.fEstado.value;
         $sexo = this.form1.fSexo.value;
-        document.write($nome + " /   " ); 
-        document.write($idade + " /   " ); 
-        document.write($cidade + " /  "  ); 
-        document.write($estado + " /  " ); 
-        document.write($sexo + ", Cheguei até aqui !");
+        document.write(" Nome: " + $nome + " / "); 
+        document.write("Idade: " + $idade + " / "); 
+        document.write("Cidade: " + $cidade + " / "); 
+        document.write("Estado: " + $estado +" / "); 
+        document.write("Sexo: " + $sexo + ",  Cheguei até aqui!" );
        return false;
     }
 </script>

@@ -1,0 +1,27 @@
+<body>
+
+<font color="black" size="6">
+ESCOLHA UMA FRUTA:
+</font>
+<br><br>
+
+<form name ="form1" action="" nethod="post" onsubmit="return Validar()">
+<input type="checkbox" name="Banana" value="Banana">
+<label for="vehicle1"> Banana</label><br>
+<input type="checkbox" id="vehicle2" name="Maçã" value="Maçã">
+<label for="vehicle2"> Maçã</label><br>
+<input type="checkbox" id="vehicle3" name="Uva" value="Uva">
+<label for="vehicle3"> Uva</label><br>
+<input type="checkbox" id="vehicle1" name="Pêra" value="Pêra">
+<label for="vehicle1"> Pêra</label><br>
+<input type="checkbox" id="vehicle2" name="Abacate" value="Abacate">
+<label for="vehicle2"> Abacate</label><br>
+<input type="checkbox" id="vehicle3" name="Manga" value="Manga">
+<label for="vehicle3"> Manga</label><br>
+
+<input type="hidden" name="fCurso" value="DS">
+
+<input type="submit" value="Gravar">
+
+ 
+</form>

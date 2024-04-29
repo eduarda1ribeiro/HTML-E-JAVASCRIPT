@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+</body>
+</html>
+<head>
+    <script>
+        function ampliar(x) {
+          x.style.height = "640px";
+          x.style.width = "640px";
+        }
+        
+        function normal(x) {
+          x.style.height = "320px";
+          x.style.width = "320px";
+        }
+
+
+        function mudarCor(x) {
+          x.style.color = "red";
+         
+        }
+        
+        function manterCor(x) {
+            x.style.color = "black";
+        }
+
+
+function alerta()
+{
+   alert('Esse é o Milles Morales');
+}
+
+function alerta2()
+{
+   alert('Esse é o homem aranha');
+}
+       
+</script>
+</head>
+<body>
+
+<img src="img/spider2.jpg" onmouseover="ampliar(this)" onmouseout="normal(this)" border="0"  alt="" width="320" height="320">
+
+
+
+<h1 onmouseover="mudarCor(this)" onmouseout="manterCor(this)" >Miles Morales</h1>
+
+<img src="img/miles.jpg" ondblclick="alerta2()"> 
+
+
+
+</body>
+</html>

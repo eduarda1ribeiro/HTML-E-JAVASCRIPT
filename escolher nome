@@ -1,0 +1,5 @@
+  <script>
+    var conteudo = "Ricardo;Eduardo;Lucas;Maria"
+    var resultado = conteudo.split("@")
+    console.log(resultado)
+</script>

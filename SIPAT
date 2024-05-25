@@ -1,0 +1,162 @@
+<html>
+<head>
+  <style>
+    body {
+      background-color: #253732;
+    }
+    table {
+      width: 100%;
+    }
+    td {
+      text-align: center;
+      vertical-align: top;
+    }
+    .text-baixo {
+      font-family: "Copperplate Gothic";
+      color: #043604;
+      font-size: 22px;
+      text-align: center;
+      display: block; /* Faz o texto ocupar a linha inteira */
+    }
+    .text-baixo2 {
+      font-family: "Copperplate Gothic";
+      color: #021b0a;
+      font-size: 36px;
+      text-align: left;
+      display: block; /* Faz o texto ocupar a linha inteira */
+      font-weight: bold;
+    }
+    .text-baixo3 {
+      font-family: "Copperplate Gothic";
+      color: #043604;
+      font-size: 22px;
+      text-align: left;
+      display: block; /* Faz o texto ocupar a linha inteira */
+    }
+    .text-baixo4 {
+      font-family: "Copperplate Gothic";
+      color: #021b0a;
+      font-size: 38px;
+      text-align:center;
+      display: block; /* Faz o texto ocupar a linha inteira */
+      font-weight: bold;
+    }
+    .text-baixo5 {
+      font-family: "Copperplate Gothic";
+      color: #021b0a;
+      font-size: 22px;
+      text-align:center;
+      display: block; /* Faz o texto ocupar a linha inteira */
+      
+    }
+    .text-baixo6 {
+      font-family: "Copperplate Gothic";
+      color: #0EA256;
+      font-size: 22px;
+      text-align:left;
+      display: block; /* Faz o texto ocupar a linha inteira */
+      
+    }
+    .container {
+      text-align: center; /* Centraliza o conteúdo do contêiner */
+    }
+  </style>
+</head>
+<body>
+
+<table width="1570" height="50" bgcolor="#0c934f">
+  <tr>
+    <td><img src="img/sipat1.png" width="30%" align="left"></td>
+    <td><img src="img/LUPAOFC.png" width="50%" align="right"></td>
+  </tr>
+</table>
+
+<table width="1570" height="300" bgcolor="#95ccad">
+  <tr>
+    <td style="font-size: 50px; font-family: Copperplate Gothic; color: #0EA256; text-align: center; vertical-align: middle;">
+      BEM VINDO À SIPAT: SEMANA INTERNA DE PREVENÇÃO DE ACIDENTES DO TRABALHO!
+    </td>
+  </tr>
+</table>
+
+<table width="1570" height="2500" bgcolor="#0c934f">
+  <tr>
+    <td class="container">
+      <img src="img/sipat2.jpg" width="80%" height="auto"><br>
+      <span class="text-baixo">Neste artigo vamos saber mais sobre a SIPAT - Do conceito a organização do evento em sua empresa - Seus pontos positivos.</span><br><br><br><br><br><br>
+      <span class="text-baixo2">O que é?</span><br>
+      <span class="text-baixo3">A sigla SIPAT significa Semana Interna de Prevenção de Acidentes do Trabalho. Representa o evento onde atividades direcionadas à prevenção de acidentes do trabalho e doenças ocupacionais são realizadas.</span><br><br><br><br><br>
+      <span class="text-baixo2"> Qual o seu objetivo? </span><br>
+      <span class="text-baixo3">  O intuito dessa semana de atividades internas é capacitar e
+        conscientizar os seus colaboradores para que mantenham atitudes
+        adequadas com o ambiente de trabalho, a fim de evitar acidentes
+        de trabalho. Vale destacar que esses acontecimentos podem prejudi
+        car tanto a saúde do profissional quanto os negócios da empresa. Isso
+        pode ser feito através de conteúdos (teóricos e práticos),
+        que reforcem os comportamentos e atitudes corretos no local de
+        trabalho. </span><br><br><br><br><br>
+        <span class="text-baixo2"> Quando deve ser feita uma SIPAT?</span><br>
+        <span class="text-baixo3"> Obrigatoriamente, as empresas devem realizar a SIPAT uma vez por
+            ano para cumprir com as obrigações previstas na lei. A norma regu
+            lamentadora número 5, entretanto, não determina uma data para a rea
+            lização da semana interna de conscientização. </span><br><br><br><br><br>
+        <span class="text-baixo2"> Como promover a SIPAT na empresa? </span><br>
+        <span class="text-baixo3">   1. Faça um planejamento <br>
+            2. Crie um cronograma <br>
+            3. Defina temas e parceiros <br>
+            4. Realize a comunicação da SIPAT na empresa <br>
+            5. Colete pesquisas e feedbacks
+        </span><br><br><br><br><br>
+        <span class="text-baixo2"> Quais os benefícios para a empresa?</span><br>
+        <span class="text-baixo3">   1. Melhora no clima organizacional: Treinamentos anuais aumentam a
+            sensação de segurança e satisfação dos funcionários. <br>
+           2. Aumento da produtividade: Reduz a frequência de acidentes e
+           ausências, mantendo a equipe completa e produtiva. <br>
+           3. Redução de turnover e absenteísmo: Promove hábitos saudáveis e
+            práticas seguras, diminuindo doenças e acidentes, além de
+            aumentar a retenção de talentos, melhorando a imagem da empresa
+            como empregadora.
+        </span><br><br><br><br><br>
+        <span class="text-baixo2">E para os colaboradores</span><br>
+        <span class="text-baixo3">  1. Melhoria na saúde: Os funcionários recebem informações para
+            adotar um estilo de vida mais saudável, útil tanto no trabalho
+            quanto fora dele. <br>
+            2. Segurança no trabalho: A promoção de temas educativos e o
+            investimento em prevenção de acidentes aumentam a satisfação e
+             o engajamento dos funcionários. <br>
+            3. Satisfação no ambiente de trabalho: Saber que estão protegidos
+            e que o empregador se preocupa com a segurança deles melhora a
+            experiência no local de trabalho.
+        </span><br><br><br><br><br>
+        <span class="text-baixo2"> SIPAT 2023: Principais temas</span><br>
+        <span class="text-baixo3">  1. Cuidados com a saúde mental;<br>
+            2. Ergonomia no trabalho;<br>
+            3. Estresse e Síndrome de Burnout;<br>
+            4. Motivação;<br>
+            5. Estilo de vida saudável (alimentação, prática de exercício
+            físico, autocuidado);<br>
+            6. Prevenção e combate a incêndios;<br>
+            7. Direção segura;<br>
+            8. Uso de equipamentos de proteção individual;<br>
+            Entre outros.
+        </span><br><br><br><br><br><br><br><br>
+    
+        <span class="text-baixo4"> COLABORADORES </span><br>
+        <img src="img/colaborar.png" width="22%" height="auto"><br>
+        <span class="text-baixo5">  Eduarda Ribeiro e Dafny Vandressen  </span><br><br><br><br><br><br><br><br>
+        <table width="1570" height="150" bgcolor="#253732">
+        <tr>
+        <td style="font-size: 22px; font-family: Copperplate Gothic; color: #0EA256; text-align: left;">       
+        <span class="text-baixo6">  SIPAT: SEMANA INTERNA DE PREVENÇÃO DE ACIDENTES DO TRABALHO! </span><br>
+        <span class="text-baixo6"> Localização: Av. Rebouças, 3965 - Jardim Sao Carlos, Sumaré - SP, 13170-023    </span><br>
+        <span class="text-baixo6"> © 2024 - SIPAT.COM| SIPAT PARA SUA EMPRESA| Todos os direitos reservados.     </span><br>
+        
+ </td>
+ </tr>
+ </table>
+ </td>
+</tr>
+</table>
+
+</body>
+</html>

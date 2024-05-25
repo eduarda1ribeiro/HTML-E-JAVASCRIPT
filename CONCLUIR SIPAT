@@ -20,14 +20,37 @@
     }
     .text-baixo {
       font-family: Chunk Five;
-      color: rgb(4, 54, 4); 
+      color: #043604; 
       font-size: 27px
     }
+    .text-baixo2 {
+      font-family: Arial;
+      color: #021b0a;
+      text-align: left;
+      font-size: 40px;
+      text-align: left;
+      
+    }
+    .text-baixo3 {
+      font-family: Chunk Five;
+      color: #043604; 
+      font-size: 27px;
+      text-align: left;
+    }
 </style>
- <table  width="1570"  height="1000"  bgcolor="0c934f" >
-    <TD> <img src="img/sipat2.jpg" width= '98%' height='45%' > <br> <br>
+    <table  width="1570"  height="9000"  bgcolor="0c934f" >
+    <TD> <img src="img/sipat2.jpg" width= '80%' height='5%' ></TD>
+    <td>
     <span class="text-baixo"> Neste artigo vamos saber mais sobre a SIPAT - 
-        Do conceito a organização do evento em sua empresa - Seus pontos positivos.</span>  
-
-</Td>
+        Do conceito a organização do evento em sua empresa - Seus pontos positivos.</span> <br><br><br><br><br><br><br>
+        <span class="text-baixo2">
+       O que é?
+<BR>
+    <span class="text-baixo3">
+       A sigla SIPAT significa Semana Interna de Prevenção de
+Acidentes do Trabalho. Representa o evento onde atividades
+ direcionadas à prevenção de acidentes do trabalho e doenças
+ ocupacionais são realizadas.
+</td>
 </table>
+

@@ -1,0 +1,8 @@
+.....
+{
+  if((!IsPostBack)) //SE N FOR POSTBACK
+NEGAR ALGUMA COISA
+
+.....
+{
+  if((!IsPostBack))

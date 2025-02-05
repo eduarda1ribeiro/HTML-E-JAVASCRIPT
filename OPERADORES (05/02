@@ -19,3 +19,8 @@ Relacionais:
 LET VALOR = "Óla"(esse ola é o string);
 LET VALOR = 2;( esse é o numerico
 
+Operados Lógicos:
+&& and (E)
+\\ or (or)
+`` Interpolação
+

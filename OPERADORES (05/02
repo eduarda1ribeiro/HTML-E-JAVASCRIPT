@@ -1,0 +1,21 @@
+Aritméticos:
++ soma
+- subtração
+* multiplicação
+/ divisão
+% módulo (restodadivisão)
+** exponenciação (1^2..)
+
+Relacionais: 
+> maior
+< menor
+>= maior ou igual
+<= menor ou igual
+!+ diferente
+== igual ( compara só o valor)
+=== igual (compara o valor e o tipo)
+= ATRIPUIÇÃO DE VALOR Á VARIAVEL
+
+LET VALOR = "Óla"(esse ola é o string);
+LET VALOR = 2;( esse é o numerico
+

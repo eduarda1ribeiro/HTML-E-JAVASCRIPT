@@ -2,3 +2,23 @@ READLINE - pega o valor inserido pelo usuário
 GETELEMENTBYID - método para pegar elementis javascript pelo id
 FUNÇÕES(function) - servem para executar  ações no código
 CONST - variaveis imutaveis
+
+OBJETOS {} chaves - o que esta dentro chamamos de propriedades
+ARRAYS [] conchetes - o que esta dentro chamamos de elementos
+FUNÇÕES () parentese - o que esta dentro chamamos de parametro
+
+TODOLIST
+-input
+-botao pra enviar 
+-botap para apagar tarefas 
+TEM 4 FUNÇÕES BASICAS:
+-adicionar tareda
+-listar tarefa
+-remover tarefa
+-sair
+
+\n = é uma quebra de linha
+
+switch case = quando queremos fazer uma verifição ao todo,
+diferente do if que ja faz passo a passo
+-ele vem acompanhado do default

@@ -1,3 +1,4 @@
 READLINE - pega o valor inserido pelo usuário
 GETELEMENTBYID - método para pegar elementis javascript pelo id
 FUNÇÕES(function) - servem para executar  ações no código
+CONST - variaveis imutaveis
